@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rel Guzmán</h1>
+<h1 align="center">Hi 👋, I'm Rel Guzman</h1>
 <h3 align="center">I'm a pythonist/developer with experience in academia (Machine Learning).</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rgap&label=Profile%20views&color=0e75b6&style=flat" alt="rgap" /> </p>
