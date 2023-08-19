@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Python, Data Sience, Machine Learning, MERN**
 
-- 📫 How to reach me **r.guzmanap@gmail.com**
+- 📫 How to reach me? Via <a href="mailto:r.guzmanap@gmail.com">email</a>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
