@@ -22,7 +22,7 @@
   </a>
 </p>
 
-<h3 align="center">AI Tools I've Used </h3>
+<h3 align="center">AI Tools That I Know 🤖</h3>
 <p align="center">
   <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40" />
