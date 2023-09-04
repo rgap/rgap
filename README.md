@@ -21,6 +21,8 @@
     <img src="https://skillicons.dev/icons?i=python,bash,vscode,git,html,css,js,bootstrap,tailwind,flask,linux,mysql,mongodb,react,cpp,figma,ai,ps,discord&perline=14" />
   </a>
 </p>
+
+<h3 align="center">AI Tools I've Used </h3>
 <p align="center">
   <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40" />
@@ -34,8 +36,14 @@
   <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40" />
   </a>
+  
+  <a href="https://chat.openai.com/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" alt="chatgpt" width="40" height="40" />
+  </a>
+  <a href="https://www.midjourney.com/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Midjourney_Emblem.png/600px-Midjourney_Emblem.png" alt="midjourney" width="40" height="40" />
+  </a>  
 </p>
-
 
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rgap&show_icons=true&locale=en&layout=compact" alt="rgap" /></p>
