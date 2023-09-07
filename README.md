@@ -50,6 +50,5 @@
 [![rgap's stats](https://github-readme-stats.vercel.app/api/wakatime?username=rgap)](https://github.com/anuraghazra/github-readme-stats)
 
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rgap&show_icons=true&locale=en" alt="rgap" /></p>
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rgap&" alt="rgap" /></p>
