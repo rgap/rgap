@@ -1,4 +1,4 @@
-![image](https://github.com/rgap/rgap/assets/1432440/b53f4af3-fe34-4ca3-94c9-43771a9e2605)<h1 align="center">Hi 👋, I'm Rel Guzman</h1>
+<h1 align="center">Hi 👋, I'm Rel Guzman</h1>
 <h3 align="center">I'm a pythonist/developer with experience in academia (Machine Learning).</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rgap&label=Profile%20views&color=0e75b6&style=flat" alt="rgap" /> </p>
