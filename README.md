@@ -40,10 +40,13 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Power_bi_logo_black.svg/768px-Power_bi_logo_black.svg.png" alt="Power BI" width="40" height="40" />
   </a>
   <a href="" target="_blank" rel="noreferrer">
-    <img src="https://freepngimg.com/download/icon/search/1789-claude-ai.svg" alt="claude" width="40" height="40" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" alt="chatgpt" width="40" height="40" />
+  </a>
+  <a href="" target="_blank" rel="noreferrer">    
+    <img src="https://blobaccountproduction.blob.core.windows.net/educationwebblobstorage/4zufwjgmbb8yc5m9drd7uihby1xn?sp=r&sv=2018-11-09&se=2024-04-01T20%3A30%3A32Z&rscd=inline%3B+filename%3D%22copilot+b_w.png%22%3B+filename*%3DUTF-8%27%27copilot%2520b_w.png&rsct=image%2Fpng&sr=b&sig=PjFFQpeSR3Zegml7i57qqT7hwKlwBd7lDEMnRt5vxv4%3D" alt="Github copilot" width="40" height="40" />
   </a>
   <a href="" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" alt="chatgpt" width="40" height="40" />
+    <img src="https://freepngimg.com/download/icon/search/1789-claude-ai.svg" alt="claude" width="40" height="40" />
   </a>
   <a href="" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Midjourney_Emblem.png/600px-Midjourney_Emblem.png" alt="midjourney" width="40" height="40" />
