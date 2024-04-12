@@ -43,7 +43,7 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" alt="chatgpt" width="40" height="40" />
   </a>
   <a href="" target="_blank" rel="noreferrer">    
-    <img src="https://blobaccountproduction.blob.core.windows.net/educationwebblobstorage/4zufwjgmbb8yc5m9drd7uihby1xn?sp=r&sv=2018-11-09&se=2024-04-01T20%3A30%3A32Z&rscd=inline%3B+filename%3D%22copilot+b_w.png%22%3B+filename*%3DUTF-8%27%27copilot%2520b_w.png&rsct=image%2Fpng&sr=b&sig=PjFFQpeSR3Zegml7i57qqT7hwKlwBd7lDEMnRt5vxv4%3D" alt="Github copilot" width="40" height="40" />
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNgdRd1VVjT8GEcoxFE7WlrpRJ4n645XPzGX5H4dkFxQ&s" alt="Github copilot" width="40" height="40" />
   </a>
   <a href="" target="_blank" rel="noreferrer">
     <img src="https://freepngimg.com/download/icon/search/1789-claude-ai.svg" alt="claude" width="40" height="40" />
