@@ -18,7 +18,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,bash,vscode,git,html,css,js,bootstrap,tailwind,flask,linux,kali,mysql,postgres,mongodb,react,vite,cpp,docker,postman,selenium,figma,ai,ps,discord,latex,sketchup&perline=15" />
+    <img src="https://skillicons.dev/icons?i=python,bash,vscode,git,html,css,js,ts,bootstrap,tailwind,flask,linux,kali,mysql,postgres,mongodb,react,vite,cpp,docker,postman,selenium,figma,ai,ps,discord,latex,sketchup&perline=15" />
   </a>
 </p>
 
@@ -50,7 +50,7 @@
   </a>
   <a href="" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Midjourney_Emblem.png/600px-Midjourney_Emblem.png" alt="midjourney" width="40" height="40" />
-  </a>  
+  </a>
 </p>
 
 
