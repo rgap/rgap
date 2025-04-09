@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Full Stack programming**
 
-- 💬 Ask me about **Python, Data Science, Machine Learning, MERN**
+- 💬 Ask me about **Python, Data Science, Machine Learning, MERN, PERN, MENN**
 
 - 📫 How to reach me? Via <a href="mailto:r.guzmanap@gmail.com">email</a>
 
