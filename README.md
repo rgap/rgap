@@ -35,9 +35,5 @@
 </p>
 
 <p align="center">
-  <h3 align="center">Contribution graph</h3>
-</p>
-
-<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=rgap&radius=16&theme=github-compact&area=true" alt="activity graph" />
 </p>
