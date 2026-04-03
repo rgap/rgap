@@ -38,4 +38,6 @@
 ## Contribution graph
 </p>
 
-![snake gif](https://github.com/rgap/rgap/blob/output/github-contribution-grid-snake.svg)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rgap&radius=16&theme=github-compact&area=true" alt="activity graph" />
+</p>
