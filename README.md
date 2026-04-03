@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rel Guzman</h1>
-<h3 align="center">I'm a pythonist/developer with experience in academia (Machine Learning).</h3>
+<h3 align="center">I'm a developer with experience in academia (Machine Learning).</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rgap&label=Profile%20views&color=0e75b6&style=flat" alt="rgap" /> </p>
-
-- 🌱 I’m currently learning **Full Stack programming**
 
 - 💬 Ask me about **Python, JavaScript, Machine Learning, MERN, PERN, MENN**
 
@@ -18,42 +16,17 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://go-skill-icons.vercel.app/">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=python,bash,cursor,js,ts,html,css,tailwind,cursor,linux,mysql,postgres,mongodb,react,vite,cpp,docker,postman,selenium,figma,ai,ps,discord,latex,sketchup&perline=15" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=python,bash,js,ts,html,css,tailwind,vite,cursor,warp,linux,mysql,postgres,mongodb,react,nodejs,vite,cpp,docker,postman,selenium,figma,ai,ps,discord,latex,photoshop,sketchup&perline=15" />
   </a>
 </p>
 
 <h3 align="center">AI/Data Tools That I Know 🤖</h3>
+<!--ai stack icons-->
 <p align="center">
-  <a href="" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="40" height="40" />
-  </a>
-  <a href="" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40" />
-  </a>
-  <a href="" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40" />
-  </a>
-  <a href="" target="_blank" rel="noreferrer">
-    <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40" />
-  </a>
-  <a href="" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40" />
-  </a>
-  <a href="" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" alt="chatgpt" width="40" height="40" />
-  </a>
-  <a href="" target="_blank" rel="noreferrer">    
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNgdRd1VVjT8GEcoxFE7WlrpRJ4n645XPzGX5H4dkFxQ&s" alt="Github copilot" width="40" height="40" />
-  </a>
-  <a href="" target="_blank" rel="noreferrer">
-    <img src="https://freepngimg.com/download/icon/search/1789-claude-ai.svg" alt="claude" width="40" height="40" />
-  </a>
-  <a href="" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Midjourney_Emblem.png/600px-Midjourney_Emblem.png" alt="midjourney" width="40" height="40" />
+  <a href="https://go-skill-icons.vercel.app/">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=claude,gemini,chatgpt,scikitlearn,pandas,pytorch,&perline=15" />
   </a>
 </p>
-
-
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rgap&show_icons=true&locale=en" alt="rgap" /></p>
 
