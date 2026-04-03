@@ -35,7 +35,7 @@
 </p>
 
 <p align="center">
-## Contribution graph
+  <h3 align="center">Contribution graph</h3>
 </p>
 
 <p align="center">
