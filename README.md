@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Full Stack programming**
 
-- 💬 Ask me about **Python, Data Science, Machine Learning, MERN, PERN, MENN**
+- 💬 Ask me about **Python, JavaScript, Machine Learning, MERN, PERN, MENN**
 
 - 📫 How to reach me? Via <a href="mailto:r.guzmanap@gmail.com">email</a>
 
@@ -17,8 +17,13 @@
 <h3 align="center">Languages and Tools That I Know 🧙‍♂️</h3>
 <!--tech stack icons-->
 <p align="center">
+  <a href="https://go-skill-icons.vercel.app/">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=git,kubernetes,docker,c,vim" />
+  </a>
+</p>
+<p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,bash,vscode,git,html,css,js,ts,bootstrap,tailwind,flask,linux,kali,mysql,postgres,mongodb,react,vite,cpp,docker,postman,selenium,figma,ai,ps,discord,latex,sketchup&perline=15" />
+    <img src="https://skillicons.dev/icons?i=python,bash,cursor,js,ts,html,css,tailwind,cursor,linux,mysql,postgres,mongodb,react,vite,cpp,docker,postman,selenium,figma,ai,ps,discord,latex,sketchup&perline=15" />
   </a>
 </p>
 
