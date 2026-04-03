@@ -12,7 +12,7 @@
 <a href="https://linkedin.com/in/relguzman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="relguzman" height="30" width="40" /></a>
 </p>
 
-<h3 align="center">Languages and Tools That I Know 🧙‍♂️</h3>
+<h3 align="center">Languages and Tools That I Use 🧙‍♂️</h3>
 <!--tech stack icons-->
 <p align="center">
   <a href="https://go-skill-icons.vercel.app/">
@@ -20,7 +20,7 @@
   </a>
 </p>
 
-<h3 align="center">AI/Data Tools That I Know 🤖</h3>
+<h3 align="center">AI/Data Tools That I Use 🤖</h3>
 <!--ai stack icons-->
 <p align="center">
   <a href="https://go-skill-icons.vercel.app/">
