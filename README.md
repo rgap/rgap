@@ -28,6 +28,25 @@
   </a>
 </p>
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rgap&show_icons=true&locale=en" alt="rgap" /></p>
-
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rgap&" alt="rgap" /></p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Full-stack+Developer;Machine+Learning+%2B+Web+Engineering;UI%2FUX+%2B+AI-assisted+workflows;Building+useful+digital+products" alt="Typing SVG" />
+</p>
+
+## Contribution graph
+
+![snake gif](https://github.com/rgap/rgap/blob/output/github-contribution-grid-snake.svg)
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rgap&radius=16&theme=github-compact&area=true" alt="activity graph" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/rgap/YOUR_REPO_1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rgap&repo=YOUR_REPO_1" />
+  </a>
+  <a href="https://github.com/rgap/YOUR_REPO_2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rgap&repo=YOUR_REPO_2" />
+  </a>
+</p>
