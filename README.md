@@ -16,7 +16,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://go-skill-icons.vercel.app/">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=python,js,ts,html,css,tailwind,vite,cursor,warp,linux,mysql,postgres,mongodb,react,nodejs,vite,cpp,docker,bash,postman,selenium,figma,ai,ps,discord,latex,photoshop,sketchup&perline=15" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=python,js,ts,html,css,tailwind,vite,cursor,warp,linux,mysql,postgres,mongodb,react,nodejs,vite,cpp,docker,bash,postman,selenium,figma,ai,ps,discord,latex,sketchup&perline=15" />
   </a>
 </p>
 
