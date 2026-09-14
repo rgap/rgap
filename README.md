@@ -31,7 +31,10 @@
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rgap&" alt="rgap" /></p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=700&lines=AI+Engineer+&+Consultant;Full-stack+Developer;Machine+Learning+%2B+Web+Engineering;UI%2FUX+%2B+AI-assisted+workflows;Building+useful+digital+products" alt="Typing SVG" />
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=700&lines=AI+Engineer+%26+Consultant;Full-stack+Developer;Machine+Learning+%2B+Web+Engineering;UI%2FUX+%2B+AI-assisted+workflows;Building+useful+digital+products"
+    alt="Typing SVG"
+  />
 </p>
 
 <!-- <p align="center">
