@@ -34,6 +34,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Full-stack+Developer;Machine+Learning+%2B+Web+Engineering;UI%2FUX+%2B+AI-assisted+workflows;Building+useful+digital+products" alt="Typing SVG" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=rgap&radius=16&theme=github-compact&area=true" alt="activity graph" />
-</p>
+</p> -->
