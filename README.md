@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Rel Guzman</h1>
-<h3 align="center">I'm a developer with experience in academia (Machine Learning).</h3>
+<h3 align="center">I'm a software developer with experience in academia.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rgap&label=Profile%20views&color=0e75b6&style=flat" alt="rgap" /> </p>
 
-- 💬 Ask me about **Python, JavaScript, Machine Learning, MERN, PERN, MENN**
+- 💬 Ask me about **AI-Assisted Development, Python, JavaScript, Typescript, MERN, PERN, MENN, Machine Learning**
 
 - 📫 How to reach me? Via <a href="mailto:r.guzmanap@gmail.com">email</a>
 
@@ -31,7 +31,7 @@
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rgap&" alt="rgap" /></p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Full-stack+Developer;Machine+Learning+%2B+Web+Engineering;UI%2FUX+%2B+AI-assisted+workflows;Building+useful+digital+products" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=700&lines=AI+Engineer+&+Consultant;Full-stack+Developer;Machine+Learning+%2B+Web+Engineering;UI%2FUX+%2B+AI-assisted+workflows;Building+useful+digital+products" alt="Typing SVG" />
 </p>
 
 <!-- <p align="center">
